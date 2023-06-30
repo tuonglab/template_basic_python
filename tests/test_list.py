@@ -36,10 +36,10 @@ def test_unique_items():
 
 def test_unique_list_format():
     assert learn_list.unique_list_format() == [
-        "banana",
+        "apple",
+        "leek",
         "boy",
         "cheese",
-        "leek",
-        "apple",
+        "banana",
         "pie",
     ]

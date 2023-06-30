@@ -3,6 +3,18 @@ Basic template repository for python classroom for Tuong group students.
 
 This repository holds the basic scripts/questions for basic python usage to prep you for advanced analysis in single-cell. The idea is that there are simple functions and objectives included in this repository for everyday python usage. However, I have written mistakes into the codes in the `learn` folder and it is your task to find the mistakes and suggest the solutions. Good luck and hope you learn something from this!
 
+## Instructions
+
+Once you have accepted the assignment, open the repository on your webpage or on vscode. If you have `GitHub` desktop installed, you can do it locally on your comhave to rememebr to push your commits. Check out https://github.com/tuonglab/github-starter-course for more information.
+
+Anyway, to perform the assignment(s), you would need to:
+
+1) `checkout` the `feedback` branch or click on the `feedback` branch.
+2) Click on the `learn` folder and look at the code/scripts relevant to the assignment i.e. If the assignment was `list`, click the corresponding `.py` file that has the word `list` in it e.g. `learn/learn_list.py`
+3) <b>There are mistakes contained in the file and it's your goal to fix them </b>. The expected outputs are in the `tests` folder.
+5) make your commits to the scripts in the `learn` folder. This will save your changes/answers to the assignments and trigger the tests to check if you do it correclty. Remember, you shold only do this on the `feedback` branch.
+7) check if the tests passed in either the `Pull requests` tab or the `Actions tab`. The goal is to have the test(s) be successful (green).
+
 ## lists
 
 The first learning plan is on `lists`.

@@ -18,6 +18,7 @@ Anyway, to perform the assignment(s), you would need to:
 If you are unsure about anything, post the questions on slack!
 
 ## lists
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuonglab/tuong_group_basic_python/blob/master/notebooks/learning_list.ipynb)
 
 The first assignment is on `lists`.
 

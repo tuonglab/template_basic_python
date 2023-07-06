@@ -5,14 +5,14 @@ This repository holds the basic scripts/questions for basic python usage to prep
 
 ## Instructions
 
-Once you have accepted the assignment, open the repository on your webpage or on vscode. If you have `GitHub` desktop installed, you can do it locally on your comhave to rememebr to push your commits. Check out https://github.com/tuonglab/github-starter-course for more information.
+Once you have accepted the assignment, open the repository on your webpage or on vscode. If you have `GitHub` desktop installed, you can do it locally on your computer. Just have to remember to push your commits. Check out https://github.com/tuonglab/github-starter-course for more information.
 
 Anyway, to perform the assignment(s), you would need to:
 
 1) `checkout` the `feedback` branch or click on the `feedback` branch.
 2) Click on the `learn` folder and look at the code/scripts relevant to the assignment i.e. If the assignment was `list`, click the corresponding `.py` file that has the word `list` in it e.g. `learn/learn_list.py`
 3) <b>There are mistakes contained in the file and it's your goal to fix them </b>. The expected outputs are in the `tests` folder.
-5) make your commits to the scripts in the `learn` folder. This will save your changes/answers to the assignments and trigger the tests to check if you do it correclty. Remember, you shold only do this on the `feedback` branch.
+5) make your commits to the scripts in the `learn` folder. This will save your changes/answers to the assignments and trigger the tests to check if you do it correctly. Remember, you should only do this on the `feedback` branch.
 7) check if the tests passed in either the `Pull requests` tab or the `Actions tab`. The goal is to have the test(s) be successful (green).
 
 If you are unsure about anything, post the questions on slack!
@@ -40,9 +40,9 @@ Imagine you have 10 clusters that you identified but you want to give each of th
 
 There are 2 functions written in `learn/learn_dict.py` but the tests are failing for each of them. Can you fix them up so that the tests succeed?
 
-## dataframes
+## data frames
 
-The third assignment is on `dataframe`. We use the popular `pandas` package to interact with dataframes.
+The third assignment is on data frames. We use the popular `pandas` package to interact with data frames.
 
 A `pandas` `DataFrame` is a 2 dimensional data structure, like a 2 dimensional array, or a table with rows and columns.
 https://www.w3schools.com/python/pandas/pandas_dataframes.asp#:~:text=What%20is%20a%20DataFrame%3F,table%20with%20rows%20and%20columns.
